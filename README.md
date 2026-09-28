@@ -180,3 +180,23 @@ The project contains examples using:
 - Gemini LLM
 
 The API key is securely retrieved from Google Colab Secrets instead of being stored directly in the source code.
+
+
+# 👨‍💻 Author
+
+**Subhadip Samanta**
+
+🎓 B.Tech in Data Science
+
+GitHub: https://github.com/subhadip136
+
+
+---
+
+# ⭐ Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub.
+
+It helps others discover the project and motivates future improvements.
+
+---
